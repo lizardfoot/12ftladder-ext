@@ -1,10 +1,10 @@
 # 12ftladder-ext
 
-This is a Chrome extension that redirects a website to the 12 foot ladder proxy.
+This is a Chrome extension that redirects a website to the 12 foot ladder proxy and remove paywalls from news websites.
 
 https://12ft.io/
 
-This code is not affilaied with 12ft.io in any way.
+This code is not affilaied with 12ft.io in any way. 
 
 # Installation
 Clone the repo to a local directory
