@@ -1,0 +1,18 @@
+{
+    "name": "12ft Ladder",
+    "version": "1.0.0",
+    "description": "12 ft Ladder Paywall Remover",
+    "manifest_version": 3,
+    "author": "Geno Timlin",
+    "action":{
+        "default_title": "Click to remove paywall",
+        "default_icon": "icon.png"
+    },
+    "permissions": [
+        "activeTab",
+        "scripting"        
+    ],
+    "background" : {
+        "service_worker" : "background.js"
+    }    
+}
