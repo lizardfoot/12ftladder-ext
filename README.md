@@ -7,7 +7,7 @@ https://12ft.io/
 This code is not affilaied with 12ft.io in any way. 
 
 # Installation
-Clone the repo to a local directory
+Download the ZIP file and extract it to a local directory
 Open the Chromse Web Browser
 Navigate to chrome://extensions
 Select Load unpacked
