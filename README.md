@@ -4,7 +4,7 @@ This is a Chrome extension that redirects a website to the 12 foot ladder proxy 
 
 https://12ft.io/
 
-This code is not affilaied with 12ft.io in any way. 
+This code is not affiliated with 12ft.io in any way. 
 
 # Installation
 Download the ZIP file and extract it to a local directory
